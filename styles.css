@@ -1,0 +1,29 @@
+/* Feel free to add class attributes to the HTML in order to complete the following:
+
+Change the colour of the text in the p tag.
+
+Make it so the colour of the links changes when you hover your mouse over them.
+
+Enlarge the "Hello" heading.
+
+Set the lis containing the bear images to display: inline-block; (while leaving the lis in the nav as is). */
+
+body {
+  background-color: rgb(80, 168, 121)
+}
+
+p {
+  color: black;
+}
+
+a:hover {
+  color: cornsilk;
+}
+
+h1 {
+  font-size: 300px;
+}
+.pic_enlarge {
+    display: inline-block;
+
+}
